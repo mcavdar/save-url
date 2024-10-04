@@ -8,8 +8,7 @@
         },
         {
           "version": "1.4",
-          "update_link": "http://185.248.12.99:9292/c9333a42feb94bdcb55b-1.4.xpi",
-          "update_hash": "sha256:a51e3fe34384e98b8cfae3610d0838c62a95920c79e6de54b3aba7c8c4d88109"
+          "update_link": "https://github.com/mcavdar/save-url/raw/refs/heads/main/c9333a42feb94bdcb55b-1.4.xpi"
         }
       ]
     }
