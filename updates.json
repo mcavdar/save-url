@@ -3,12 +3,8 @@
     "save-urls@mcavdar.com": {
       "updates": [
         {
-          "version": "1.3",
-          "update_link": "https://github.com/mcavdar/save-url/raw/refs/heads/main/c9333a42feb94bdcb55b-1.3.xpi"
-        },
-        {
           "version": "1.4",
-          "update_link": "https://github.com/mcavdar/save-url/raw/refs/heads/main/c9333a42feb94bdcb55b-1.4.xpi"
+          "update_link": "https://github.com/mcavdar/save-url/releases/download/v1.4/c9333a42feb94bdcb55b-1.4.xpi"
         }
       ]
     }
