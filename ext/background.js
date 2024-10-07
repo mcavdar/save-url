@@ -10,6 +10,7 @@ function handleUpdated(tabId, changeInfo, tabInfo) {
     if (input) {
       fetch(input+new URLSearchParams({
         url: tabInfo.url,
+        title: tabInfo.title,
         timestamp: Date.now(),
     }))
     } else {
